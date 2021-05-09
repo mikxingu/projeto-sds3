@@ -1,6 +1,6 @@
 ## DS - Dashboard
 
-Projeto criado na semana Spring React pela escola [Devsuperior](http
+Projeto criado na semana Spring React pela escola [Devsuperior](https://devsuperior.com.br/)
 
 
 <!-- PROJECT SHIELDS -->

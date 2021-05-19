@@ -15,6 +15,16 @@ function Home() {
                     <Link className="btn btn-primary btn-lg" to="/dashboard">
                         Acesse agora
                     </Link>
+                    <p></p>
+
+                    <div className="alert alert-warning alert-dismissible fade show" role="alert">
+                        <strong>Atenção!</strong> Por se tratar de um site hospedado numa nuvem gratuita, aguardar alguns
+                        instantes para que o serviço do banco de dados inicie e então os dados dos gráficos serão exibidos. 
+                        Obrigado.
+
+                        
+                    </div>
+
                 </div>
             </div>
             <Footer />
